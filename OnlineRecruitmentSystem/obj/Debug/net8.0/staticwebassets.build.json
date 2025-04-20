@@ -1,0 +1,1567 @@
+{
+  "Version": 1,
+  "Hash": "gvgK04+HXd5WBv8eICJNjEd90ludF2Sr8eeB9Kk733k=",
+  "Source": "OnlineRecruitmentSystem",
+  "BasePath": "_content/OnlineRecruitmentSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineRecruitmentSystem\\wwwroot",
+      "Source": "OnlineRecruitmentSystem",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohweiwai8",
+      "Integrity": "bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyma6htpqh",
+      "Integrity": "NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_89532a12-ff86-4792-9b17-c425a0161540#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohweiwai8",
+      "Integrity": "bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7llsokdgm",
+      "Integrity": "qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyma6htpqh",
+      "Integrity": "NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7llsokdgm",
+      "Integrity": "qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xyasxzv52",
+      "Integrity": "vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvu4pltdl7",
+      "Integrity": "T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvu4pltdl7",
+      "Integrity": "T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_80bbe213-003c-4441-98e2-774040b5f002#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvu4pltdl7",
+      "Integrity": "T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f66k1yth87",
+      "Integrity": "uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xyasxzv52",
+      "Integrity": "vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\resume2003.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "resumes/resume2003#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xyasxzv52",
+      "Integrity": "vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\resume2003.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\SREENU RESUME.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "resumes/SREENU RESUME#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvu4pltdl7",
+      "Integrity": "T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\SREENU RESUME.pdf"
+    },
+    {
+      "Identity": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\Vinod_Resume.pdf",
+      "SourceId": "OnlineRecruitmentSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\",
+      "BasePath": "_content/OnlineRecruitmentSystem",
+      "RelativePath": "resumes/Vinod_Resume#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mqj92v4qba",
+      "Integrity": "0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\Vinod_Resume.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.xohweiwai8.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohweiwai8"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8287422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.zyma6htpqh.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8287422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyma6htpqh"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.xohweiwai8.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohweiwai8"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bwhAdcQhdFXt2u7sDN+Uq4YIvO+fDp4Ka3gmSuRmdIc="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:22:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.u7llsokdgm.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:22:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7llsokdgm"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8287422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.zyma6htpqh.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8287422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyma6htpqh"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.u7llsokdgm.jpg",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7llsokdgm"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.0xyasxzv52.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:22:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xyasxzv52"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:22:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.jvu4pltdl7.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvu4pltdl7"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:06:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.jvu4pltdl7.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvu4pltdl7"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.jvu4pltdl7.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvu4pltdl7"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.f66k1yth87.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1919941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f66k1yth87"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1919941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.0xyasxzv52.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xyasxzv52"
+        },
+        {
+          "Name": "label",
+          "Value": "profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:51:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/resume2003.0xyasxzv52.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\resume2003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 17:21:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xyasxzv52"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/resume2003.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/resume2003.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\resume2003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 17:21:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/SREENU RESUME.jvu4pltdl7.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\SREENU RESUME.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 11:34:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvu4pltdl7"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/SREENU RESUME.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/SREENU RESUME.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\SREENU RESUME.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1473597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 11:34:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/Vinod_Resume.mqj92v4qba.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\Vinod_Resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 09:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqj92v4qba"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/Vinod_Resume.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/Vinod_Resume.pdf",
+      "AssetFile": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\Vinod_Resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 09:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY="
+        }
+      ]
+    }
+  ]
+}

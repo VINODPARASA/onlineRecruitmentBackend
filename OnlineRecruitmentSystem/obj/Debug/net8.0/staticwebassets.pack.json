@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\SREENU RESUME.pdf",
+      "PackagePath": "staticwebassets\\resumes\\SREENU RESUME.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\Vinod_Resume.pdf",
+      "PackagePath": "staticwebassets\\resumes\\Vinod_Resume.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\resumes\\resume2003.pdf",
+      "PackagePath": "staticwebassets\\resumes\\resume2003.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineRecruitmentSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineRecruitmentSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineRecruitmentSystem.props",
+      "PackagePath": "build\\OnlineRecruitmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineRecruitmentSystem.props",
+      "PackagePath": "buildMultiTargeting\\OnlineRecruitmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineRecruitmentSystem.props",
+      "PackagePath": "buildTransitive\\OnlineRecruitmentSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

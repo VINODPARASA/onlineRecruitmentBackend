@@ -1,0 +1,184 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"195982"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:06:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.xohweiwai8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xohweiwai8"},{"Name":"integrity","Value":"sha256-bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195982"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:06:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8287422"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.zyma6htpqh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zyma6htpqh"},{"Name":"integrity","Value":"sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8287422"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"195982"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.xohweiwai8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xohweiwai8"},{"Name":"integrity","Value":"sha256-bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_89532a12-ff86-4792-9b17-c425a0161540.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195982"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bwhAdcQhdFXt2u7sDN\u002BUq4YIvO\u002BfDp4Ka3gmSuRmdIc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"247875"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:22:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.u7llsokdgm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u7llsokdgm"},{"Name":"integrity","Value":"sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_945a9608-81a2-4a9e-8d19-bf7f08f92621.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"247875"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:22:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8287422"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.zyma6htpqh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zyma6htpqh"},{"Name":"integrity","Value":"sha256-NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_ccbc7918-ee24-46bb-8966-43307a6a8afd.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8287422"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NbNyaD4sAq77tTddjEG4zoh0ZS/n7me9Mp7y8V3doDw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"247875"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.u7llsokdgm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u7llsokdgm"},{"Name":"integrity","Value":"sha256-qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/profile_dd1cf8e6-004e-47e4-b665-9b88e3d5739c.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"247875"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qtqaYMGCzNlVnSU90J2r22XMPjl6ONxO4BpqSAnbhYk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.0xyasxzv52.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xyasxzv52"},{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:22:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_097e56b7-7823-4143-b43c-726ab5e813d4.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:22:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.jvu4pltdl7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jvu4pltdl7"},{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:06:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:06:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.jvu4pltdl7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jvu4pltdl7"},{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.jvu4pltdl7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jvu4pltdl7"},{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_80bbe213-003c-4441-98e2-774040b5f002.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:06:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.f66k1yth87.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f66k1yth87"},{"Name":"integrity","Value":"sha256-uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1919941"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1919941"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uSrDSfT7D4rHZUx6ObsFC0cHNT0YymFqUg2oPVzZ6sk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.0xyasxzv52.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xyasxzv52"},{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/profiles/resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 10:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/resume2003.0xyasxzv52.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\resume2003.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xyasxzv52"},{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/resumes/resume2003.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 17:21:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/resume2003.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\resume2003.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"437745"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 17:21:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/SREENU RESUME.jvu4pltdl7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\SREENU RESUME.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jvu4pltdl7"},{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/resumes/SREENU RESUME.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 11:34:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/SREENU RESUME.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\SREENU RESUME.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1473597"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022T7JywiLz3nUsbROhyVFNivvD7o0TNAddsQvOhnYL6vE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 11:34:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/Vinod_Resume.mqj92v4qba.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\Vinod_Resume.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mqj92v4qba"},{"Name":"integrity","Value":"sha256-0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY="},{"Name":"label","Value":"_content/OnlineRecruitmentSystem/resumes/Vinod_Resume.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"459838"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00220lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 09:46:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineRecruitmentSystem/resumes/Vinod_Resume.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\Vinod_Resume.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"459838"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00220lXKfNyHgNSyGvzUC2ZNYNtLFcpm7iKGcBfBd1/UcAY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 09:46:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
