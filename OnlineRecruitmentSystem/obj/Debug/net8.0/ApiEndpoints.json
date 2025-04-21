@@ -484,6 +484,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "OnlineRecruitmentSystem.Controllers.ReportsController",
+    "Method": "GetApplicationStatusSummary",
+    "RelativePath": "api/Reports/application-status-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "OnlineRecruitmentSystem.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

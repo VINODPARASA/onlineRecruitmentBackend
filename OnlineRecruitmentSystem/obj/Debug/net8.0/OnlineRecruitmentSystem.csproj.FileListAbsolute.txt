@@ -177,3 +177,4 @@ C:\.NET_TRAINING\OnlineRecruitmentSystem\OnlineRecruitmentSystem\obj\Debug\net8.
 C:\.NET_TRAINING\OnlineRecruitmentSystem\OnlineRecruitmentSystem\obj\Debug\net8.0\ref\OnlineRecruitmentSystem.dll
 C:\.NET_TRAINING\OnlineRecruitmentSystem\OnlineRecruitmentSystem\bin\Debug\net8.0\OnlineRecruitmentSystem.staticwebassets.runtime.json
 C:\.NET_TRAINING\OnlineRecruitmentSystem\OnlineRecruitmentSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\.NET_TRAINING\OnlineRecruitmentSystem\OnlineRecruitmentSystem\obj\Debug\net8.0\OnlineRecruitmentSystem.sourcelink.json

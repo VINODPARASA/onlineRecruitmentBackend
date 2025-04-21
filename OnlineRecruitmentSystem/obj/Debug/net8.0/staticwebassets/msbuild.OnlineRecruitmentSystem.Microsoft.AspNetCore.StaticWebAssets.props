@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OnlineRecruitmentSystem</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OnlineRecruitmentSystem</BasePath>
+      <RelativePath>profiles/profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2nenkq8w4i</Fingerprint>
+      <Integrity>3mVCXHtIwUVUUnYapHLdq95VjnsHmPvtHIj7PzonMDI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>OnlineRecruitmentSystem</SourceId>
@@ -197,6 +215,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OnlineRecruitmentSystem</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OnlineRecruitmentSystem</BasePath>
+      <RelativePath>profiles/resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0xyasxzv52</Fingerprint>
+      <Integrity>vIAlZqqkHVa6KAog9yqEzC6UML1vJf2R7JEytZkYsDM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\profiles\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf'))">
       <SourceType>Package</SourceType>
