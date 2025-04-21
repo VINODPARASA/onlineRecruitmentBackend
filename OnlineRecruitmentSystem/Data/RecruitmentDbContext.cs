@@ -3,6 +3,8 @@
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
     using OnlineRecruitmentSystem.Models;
+    
+
 
     public class RecruitmentDbContext : IdentityDbContext<ApplicationUser>
     {

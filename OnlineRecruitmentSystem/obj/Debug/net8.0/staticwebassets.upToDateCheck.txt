@@ -1,3 +1,4 @@
+wwwroot\profiles\profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg
 wwwroot\profiles\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg
 wwwroot\profiles\profile_7f403ca3-7bd5-4664-b738-1c86b8a0fa12.jpg
 wwwroot\profiles\profile_89532a12-ff86-4792-9b17-c425a0161540.jpg
@@ -9,6 +10,7 @@ wwwroot\profiles\resume_1486a088-5443-4e17-9ca4-2cd26951e3cf.pdf
 wwwroot\profiles\resume_16bb4aa5-940e-48e7-9bdb-1ea9ca32c7c8.pdf
 wwwroot\profiles\resume_80bbe213-003c-4441-98e2-774040b5f002.pdf
 wwwroot\profiles\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf
+wwwroot\profiles\resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf
 wwwroot\profiles\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf
 wwwroot\resumes\resume2003.pdf
 wwwroot\resumes\SREENU RESUME.pdf

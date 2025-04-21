@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg",
+      "PackagePath": "staticwebassets\\profiles\\profile_0f858d03-a14e-41d8-8415-14c4e75a0b52.jpg"
+    },
+    {
       "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg",
       "PackagePath": "staticwebassets\\profiles\\profile_1b9f1839-a31e-40a0-bfbe-617737c7ad20.jpg"
     },
@@ -43,6 +47,10 @@
     {
       "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf",
       "PackagePath": "staticwebassets\\profiles\\resume_926c56be-d4a3-496e-88cb-4c2a2712155d.pdf"
+    },
+    {
+      "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf",
+      "PackagePath": "staticwebassets\\profiles\\resume_952489fd-acd9-4526-8e0e-7320ebb1307a.pdf"
     },
     {
       "Id": "C:\\.NET_TRAINING\\OnlineRecruitmentSystem\\OnlineRecruitmentSystem\\wwwroot\\profiles\\resume_9563a11f-e890-4a9a-8ce9-b5192ef836b6.pdf",
